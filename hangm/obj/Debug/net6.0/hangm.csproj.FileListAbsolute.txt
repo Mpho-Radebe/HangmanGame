@@ -1,0 +1,15 @@
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\bin\Debug\net6.0\hangm.exe
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\bin\Debug\net6.0\hangm.deps.json
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\bin\Debug\net6.0\hangm.runtimeconfig.json
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\bin\Debug\net6.0\hangm.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\bin\Debug\net6.0\hangm.pdb
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.csproj.AssemblyReference.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.AssemblyInfoInputs.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.AssemblyInfo.cs
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.csproj.CoreCompileInputs.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\refint\hangm.dll
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.pdb
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\hangm.genruntimeconfig.cache
+C:\Users\rlrad\OneDrive\Desktop\C# Prac\hangm\hangm\obj\Debug\net6.0\ref\hangm.dll
